@@ -44,7 +44,12 @@ namespace Demo1
         }
         private static void Console_CancelKeyPress(object sender, ConsoleCancelEventArgs e)
         {
-            tc.TrackException(new ApplicationException("Programm wurde vom Benutzer abgebrochen"));
+            try {
+                throw new ApplicationException("Programm wurde vom Benutzer abgebrochen");
+            }
+            catch (Exception ex) {
+                tc.TrackException(ex);
+            }
             tc.Flush();
         }
     }
