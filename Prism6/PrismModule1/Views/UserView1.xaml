@@ -3,11 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:PrismModule1.Views"
+             xmlns:vm="clr-namespace:PrismModule1.ViewModels"
              xmlns:prism="http://prismlibrary.com/"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              prism:ViewModelLocator.AutoWireViewModel="True"
-             d:DataContext="{d:DesignData View1DesignViewModel,IsDesignTimeCreatable=True}">
+             d:DataContext="{d:DesignData d:Type=vm:DesignTimeView1ViewModel,IsDesignTimeCreatable=True}"
+    >
     <Grid>
         <TextBlock Text="{Binding Titel}" FontSize="24" />
     </Grid>

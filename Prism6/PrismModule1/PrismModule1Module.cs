@@ -15,6 +15,7 @@ namespace PrismModule1 {
         }
 
         public void Initialize() {
+            var vm = new ViewModels.DesignTimeView1ViewModel();
             _regionManager.RegisterViewWithRegion(Infrastructure.RegionNames.ContentRegion, typeof(Views.UserView1));
             
         }
