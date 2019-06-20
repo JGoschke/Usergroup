@@ -21,7 +21,15 @@
 * [MahAppsMetro] https://github.com/steve600/MahApps.Metro 
 
 ## 20.06.2019: Windows Template Studio
+* [Visualstudio Extension (>= 2017)] http://aka.ms/wtsinstall
 ### Links
 * [WTS auf Github] https://github.com/microsoft/windowsTemplateStudio
+* [Windows Community Toolkit] https://github.com/windows-toolkit/WindowsCommunityToolkit
+* [SystemInformation WCT] https://docs.microsoft.com/de-de/windows/communitytoolkit/helpers/systeminformation
+* [Stackoverflow] https://stackoverflow.com/search?q=windows+template+studio
+* [UWP Erste Schritte] https://docs.microsoft.com/de-de/windows/uwp/get-started/index
+* [UWP Beispiele] https://github.com/Microsoft/Windows-universal-samples
+* [Microsoft Learn] https://docs.microsoft.com/de-de/learn/browse/
+
 
 
