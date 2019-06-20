@@ -30,6 +30,7 @@
 * [UWP Erste Schritte] https://docs.microsoft.com/de-de/windows/uwp/get-started/index
 * [UWP Beispiele] https://github.com/Microsoft/Windows-universal-samples
 * [Microsoft Learn] https://docs.microsoft.com/de-de/learn/browse/
+* [Erweitern des generierten Codes] https://github.com/microsoft/WindowsTemplateStudio/blob/dev/docs/getting-started-endusers.md
 
 
 
