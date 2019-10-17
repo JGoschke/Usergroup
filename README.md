@@ -2,6 +2,8 @@
 ## 17.10.2019: Windows Template Studio
 ### Links
 * [Master Detail Sample] https://github.com/Microsoft/Windows-appsample-customers-orders-database
+* [Controls und Paterns: Formular] https://docs.microsoft.com/de-de/windows/uwp/design/controls-and-patterns/forms
+* [Symbole] https://docs.microsoft.com/de-de/windows/uwp/design/style/segoe-ui-symbol-font
 
 ## 20.06.2019: Windows Template Studio
 * [Visualstudio Extension (>= 2017)] http://aka.ms/wtsinstall
