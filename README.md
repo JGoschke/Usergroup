@@ -1,4 +1,11 @@
 # Usergroup
+## 20.05.2021: Einsatz von OBS Studio im HomeOffice 
+### Links
+* [OBS Studio] https://obsproject.com/
+* Scott Hanselmann
+  * [How to Live Stream in your "home studio"] https://www.youtube.com/watch?v=x_lHk9Lf-ow
+  * [Preparing your Windows 10 machine for a Teams presentation] https://www.youtube.com/watch?v=Wu2V8Nr-jeI
+
 ## 17.10.2019: Windows Template Studio
 ### Links
 * [Master Detail Sample] https://github.com/Microsoft/Windows-appsample-customers-orders-database
